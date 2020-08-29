@@ -1,3 +1,10 @@
 https://revistadigital.inesem.es/informatica-y-tics/guia-construir-datawarehouse/
 
 -- tutorial para crear datawerehouse
+
+
+EL EJERCICIO EN YOUTUBE
+
+https://www.youtube.com/watch?v=U4J-R1J6Ms8
+
+https://www.ionos.mx/digitalguide/online-marketing/analisis-web/los-data-warehouses-en-la-business-intelligence/

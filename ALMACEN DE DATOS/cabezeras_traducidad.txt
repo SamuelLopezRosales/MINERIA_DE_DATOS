@@ -1,0 +1,238 @@
+
+1. Califique cada uno de los siguientes aspectos de la ciudad de Minneapolis
+	-Oportunidades para participar en asuntos comunitarios.
+	-Uso de la tecnología en la ciudad
+	-Acceso a la tecnología en general en Minneapolis
+
+	---- OPCIONES --
+		1 Excellent
+		2 Good
+		3 Fair
+		4 Poor
+		5 Don't know
+
+2. ¿Qué importancia tiene para usted, si es que lo es, tener cada uno de los siguientes en casa?
+	A-computadora
+	B-acceso a internet
+
+	----- OPCIONES --
+		1 Essential
+		2 Very important
+		3 Somewhat important
+		4 Not at all important
+		5 Don't know
+
+3. Minneapolis tiene una red inalámbrica al aire libre (WiFi) que cubre el 97% de la ciudad. ¿Qué tan familiarizado está, en todo caso, con la disponibilidad de esta red WiFi?
+	--NO TIENE OPCIONES
+	
+	---- OPCIONES ----
+		1 Very familiar
+		2 Somewhat familiar
+		3 Not familiar at all
+
+4. Indique si tiene cada uno de los siguientes en su hogar
+	A-computadora
+	-Computadora tableta (iPad, etc.)
+	-telefono celular
+	-Consola de juegos (Xbox, Playstation, Nintendo Wii, etc.)
+
+	----- OPCIONES ----
+		1 Yes, with Internet access
+		2 Yes, without Internet access
+		3 No
+
+5. ¿Con qué frecuencia, si es que alguna vez, accede a Internet utilizando cada uno de los siguientes?
+	A-computadora
+	------ OPCIONES ----
+		1 Daily
+		2 Weekly
+		3 Monthly
+		4 Less than once per month
+		5 Never/Not applicable
+	
+6. ¿Con qué frecuencia, si es que alguna vez, usa una computadora o accede a Internet (usando cualquier dispositivo en la pregunta 4) en cada una de las siguientes ubicaciones?
+	-casa
+
+	------ OPCIONES ----
+		1 Daily
+		2 Weekly
+		3 Monthly
+		4 Less than once per month
+		5 Never/Not applicable
+
+
+7. ¿Cómo se conecta a Internet en casa? Por favor marque todos los que apliquen.
+	-Sin acceso a internet en casa
+	-Línea telefónica de acceso telefónico
+	-Cable (Comcast/Xfinity)
+	-DSL (CenturyLink)
+	-Satellite (DirectTV, Dish)
+	-Cellular (Verizon, AT&T, Sprint)
+	-WiFi (USIW, other)
+	-no se
+	-Cable or DSL
+
+	-----------OPCIONES ---------------------
+		1 if indicated
+
+8. ¿Cómo puede obtener ayuda con preguntas o problemas relacionados con la computadora o Internet? Por favor marque todos los que apliquen.
+	-No aplica
+	-Compañeros de trabajo
+	-Amigos o familia
+	-Biblioteca
+	-Centro de tecnología comunitaria / laboratorio público
+	-Pague a alguien por soporte técnico
+	-Mi proveedor de Internet
+	-Nadie / No hay ayuda disponible
+	-Libros / Materiales de referencia
+	-Recursos informáticos / de Internet
+	-Colegio
+9. ¿Con qué frecuencia, si es que alguna vez, hace cada una de las siguientes cosas en Internet (usando cualquier opción en la pregunta 4)?
+	-Use correo electrónico, mensajes de texto o video para comunicarse
+	-Busque entretenimiento (juegos, videos, música)
+	-Utilice las redes sociales (Facebook, Twitter, LinkedIn)
+	-Recibe las noticias o el clima
+	-Compre, busque productos y servicios
+	-Investigar o estudiar un tema de interés
+	-Comparta opiniones, publique en un blog, revise un producto o servicio
+	-Asista a una clase o capacitación en línea
+	-Trabajar desde casa
+	-Banca en línea (pago de facturas, inversiones, etc.)
+	-Como padre / tutor, conéctese con la escuela de su hijo
+	-Encuentre información sobre eventos y recursos comunitarios
+	-Si tiene alguna pregunta, utilice Internet para encontrar la respuesta
+	-Participar en actividades cívicas (participar en una discusión sobre asuntos de la comunidad y el gobierno; investigar información sobre un tema o un candidato)
+	-Buscar información médica y de salud
+	-Comunicarse con el gobierno (buscar servicios, obtener una licencia, discutir un problema)
+	-Vender bienes y servicios en línea, publicitar
+	-Encuentra direcciones o busca un mapa
+
+	----------------------OPCIONES --------------------
+			1 Daily
+			2 Weekly
+			3 Monthly
+			4 Less than once per month
+			5 Never
+			6 Not applicable
+
+10. ¿Qué tan cómodo, en todo caso, se siente en cada una de las siguientes actividades?
+	-Usando una computadora portátil / de escritorio
+	-Usando un teléfono inteligente o una tableta
+	-Accediendo a Internet
+	-Usando correo electrónico
+	-Localización de información en línea (horarios de autobuses, clima, noticias, etc.)
+	-Usar sitios de redes sociales (Facebook, Twitter, etc.)
+	-Proteger su computadora (detener virus, respaldar archivos, evitar estafas)
+	-Crear documentos u hojas de cálculo
+	-Buscar o solicitar trabajos en línea
+	-Usar tutoriales en línea o programas educativos
+	-Instalación de software
+	-Escribir o publicar información en Internet.
+	-Crear un sitio web o blog
+	-Solución de problemas de la computadora
+	-Codificación de su propia aplicación de software
+
+	----------- OPCIONES -------------
+			1 Very comfortable
+			2 Somewhat comfortable
+			3 Not at all comfortable
+			4 Don't know
+			5 Not applicable
+
+Demografía
+	-¿Cuánto tiempo llevas viviendo en Minneapolis?
+	-Si ha vivido en Minneapolis menos de 5 años, ¿dónde vivía antes?
+	-¿Alquila o es propietario de su residencia actual?
+	-¿Cuál describe mejor el edificio en el que vive?	
+	-¿Cuántas personas, incluido usted, viven en su hogar?
+	-¿Hay niños menores de 18 años en su hogar?
+	-¿Cuál es su género?
+	-¿En qué categoría está tu edad?
+	-¿Eres español, hispano o latino?
+
+
+D10. ¿Cuál es su raza? (Marque una o más carreras para indicar a qué raza se considera que pertenece).
+	-American Indian or Alaskan Native
+	-Asian, Asian Indian or Pacific Islander
+	-Black or African American
+	-White
+	-Other
+
+
+¿Qué idioma prefieres hablar en casa?
+
+¿Cuál fue el ingreso anual total de su hogar en 2011?
+
+
+¿Cuál de las siguientes opciones describe mejor su situación laboral actual?
+
+
+¿Cuál de las siguientes opciones describe mejor la cantidad de educación formal que ha completado?
+
+
+¿Cuál consideras tu teléfono principal?
+
+none
+
+Barrio
+
+Clúster de vecindario
+
+
+Comunidad
+
+
+Sector censal
+
+
+Renta del encuestado / estado propio
+
+
+Tipo de vivienda del encuestado
+
+
+
+Tamaño del hogar encuestado
+
+
+Género del encuestado
+
+
+Edad del encuestado
+
+
+Sexo y edad del encuestado
+
+none
+
+
+Etnia del encuestado
+
+Respondent race
+Respondent race
+Respondent ethnicity and race
+
+Duración de la residencia del encuestado
+
+Vivienda del encuestado
+
+Respondent language preference
+
+
+Situación laboral del encuestado
+
+
+Peso rastrillado
+Raked Weight
+none
+none
+
+
+
+
+
+
+
+
+
+D10. ¿Cuál es su raza? (Marque una o más carreras para indicar a qué raza se considera que pertenece).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
