@@ -1,7 +1,7 @@
 Registros
 
-ResponseId  FINALES
--107		-107
+ResponseId  FINALES     COLUMNAS
+-107		-107	D2 = BW
 -334		-590
 -465		-735
 -590		-858

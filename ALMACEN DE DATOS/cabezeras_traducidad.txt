@@ -87,6 +87,10 @@
 	-Libros / Materiales de referencia
 	-Recursos informáticos / de Internet
 	-Colegio
+
+	-------------------------- -----------OPCIONES ---------------------
+					1 if indicated  
+
 9. ¿Con qué frecuencia, si es que alguna vez, hace cada una de las siguientes cosas en Internet (usando cualquier opción en la pregunta 4)?
 	-Use correo electrónico, mensajes de texto o video para comunicarse
 	-Busque entretenimiento (juegos, videos, música)
@@ -235,4 +239,10 @@ none
 
 
 
-D10. ¿Cuál es su raza? (Marque una o más carreras para indicar a qué raza se considera que pertenece).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+D10. ¿Cuál es su raza? (Marque una o más carreras para indicar a qué raza se considera que pertenece). 
+-American Indian or Alaskan Native 
+-Asian, Asian Indian or Pacific Islander
+-Black or African American
+-White  
+-Other
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
